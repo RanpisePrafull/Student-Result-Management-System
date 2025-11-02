@@ -1,18 +1,25 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+# 🎓 Student Result Management System (Java)
 
-The workspace contains two folders by default, where:
+A simple console-based Java project that calculates total marks, percentage, and grade of a student based on their exam scores. This project demonstrates core Object-Oriented Programming concepts.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🚀 Features
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Accepts student details and marks
+- Calculates total, percentage, and grade
+- Validates marks using exception handling
+- Uses **Interface**, **Inheritance**, and **Custom Exception**
+- Clean and beginner-friendly code
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧠 Concepts Used
+| Concept | Description |
+|--------|--------------|
+| Interface | Defines result-related common methods |
+| Inheritance | `Undergraduate` class inherits from `Student` |
+| Exception Handling | Custom exception for invalid marks input |
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 📂 Project Structure
+
